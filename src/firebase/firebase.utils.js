@@ -3,13 +3,13 @@ import "firebase/firestore";
 import "firebase/auth";
 
 const config = {
-  apiKey: "AIzaSyB26-X-Dj8aXrqcjteqkCkaYFErEt_q2UE",
+  apiKey: "AIzaSyB26-X-Dj8aXrqcjteqkCkaYFErEt_q2UE1",
   authDomain: "nik-cart-db.firebaseapp.com",
   databaseURL: "https://nik-cart-db.firebaseio.com",
   projectId: "nik-cart-db",
   storageBucket: "nik-cart-db.appspot.com",
   messagingSenderId: "312531639082",
-  appId: "1:312531639082:web:8a1d3a0190354b734f5c53",
+  appId: "1:312531639082:web:8a1d3a0190354b734f5c531",
   measurementId: "G-Q3EK01C108"
 };
 
